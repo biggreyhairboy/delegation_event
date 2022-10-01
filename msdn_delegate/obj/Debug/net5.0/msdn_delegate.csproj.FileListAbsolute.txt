@@ -1,0 +1,16 @@
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.exe
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.deps.json
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.runtimeconfig.json
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.runtimeconfig.dev.json
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.dll
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\ref\msdn_delegate.dll
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\bin\Debug\net5.0\msdn_delegate.pdb
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.csproj.AssemblyReference.cache
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.AssemblyInfoInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.AssemblyInfo.cs
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.csproj.CoreCompileInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.dll
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\ref\msdn_delegate.dll
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.pdb
+C:\Users\patrick\RiderProjects\delegation_event\msdn_delegate\obj\Debug\net5.0\msdn_delegate.genruntimeconfig.cache

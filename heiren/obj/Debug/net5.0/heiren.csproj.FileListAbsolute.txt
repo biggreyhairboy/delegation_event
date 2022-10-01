@@ -1,0 +1,16 @@
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.exe
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.deps.json
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.runtimeconfig.json
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.runtimeconfig.dev.json
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.dll
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\ref\heiren.dll
+C:\Users\patrick\RiderProjects\delegation_event\heiren\bin\Debug\net5.0\heiren.pdb
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.csproj.AssemblyReference.cache
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.AssemblyInfoInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.AssemblyInfo.cs
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.csproj.CoreCompileInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.dll
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\ref\heiren.dll
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.pdb
+C:\Users\patrick\RiderProjects\delegation_event\heiren\obj\Debug\net5.0\heiren.genruntimeconfig.cache

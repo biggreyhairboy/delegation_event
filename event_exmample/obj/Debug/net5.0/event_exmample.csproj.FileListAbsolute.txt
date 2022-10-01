@@ -1,0 +1,16 @@
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.csproj.AssemblyReference.cache
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.AssemblyInfoInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.AssemblyInfo.cs
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.csproj.CoreCompileInputs.cache
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.exe
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.deps.json
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.runtimeconfig.json
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.runtimeconfig.dev.json
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.dll
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\ref\event_exmample.dll
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\bin\Debug\net5.0\event_exmample.pdb
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.dll
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\ref\event_exmample.dll
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.pdb
+C:\Users\patrick\RiderProjects\delegation_event\event_exmample\obj\Debug\net5.0\event_exmample.genruntimeconfig.cache
